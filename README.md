@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunkhangjrakpam
 - 👀 I’m interested in crunching data and automating tasks with various tools.
-- 🌱 I’m currently learning Deep learning with python and how to compete successfully in data science competitioins.
+- 🌱 I’m currently learning Deep learning with python and how to compete successfully in data science competitions.
 - 💞️ I’m looking to collaborate on any interesting data science competitions for supervised learning.
 - 📫 How to reach me - drop a mail at arjunkh1995@gmail.com or ping me on https://www.linkedin.com/in/khangjrakpam-arjun/
 
